@@ -1,0 +1,57 @@
+
+body {font-family: sans-serif;
+     margin: 20px;}
+
+.contenedor {display: flex; 
+             align-items: center; }
+  
+img {width: 65%;
+  justify-content: flex-end;
+margin: 0.9px;
+position:static;}
+
+h1 {text-align: center;}
+
+h2{text-align: center;
+  margin: 10px 40px}
+
+h3{text-align: center;
+  margin: 10px 40px}
+
+p {text-align: center;
+margin: 10px 40px}
+  
+.cuerpo {justify-content: flex-end;
+    margin:20px auto}
+
+.peque {width: 700px;
+  height: 650px;
+  
+  margin: auto 35% ;
+  image-resolution:100%;}
+
+.seccion {background-color: #f0f0f0;
+          width:40px auto 40px auto;
+          padding: 20px;
+          margin: 10px;
+          flex: 1px 1px 300px; 
+          box-sizing: border-box; }
+
+.habilidades { display: flex;
+              position: flex-end;
+              margin: center; }
+
+
+
+
+
+@media (max-width: 600px) {
+    .seccion {flex-basis: 100%;}}
+
+ .habilidad { width: 60px;
+            background-color: lightblue;
+            padding: 7px  10px 7px;
+            margin: 10px;
+            border-radius: 20px;
+            text-align:center ;
+            }

@@ -1,0 +1,26 @@
+/*DOCUMENTO CSS*/
+
+* {margin: 0px;
+   padding: 0px;}
+
+body {   font-family: "Figtree", sans-serif; }
+
+h1 {   font-family: "Figtree", sans-serif; 
+text-align: center;}
+
+.cabecera { margin-bottom: 32px; }
+
+.tablas {margin-bottom: 32px;
+         min-height: 1px;
+         padding: 16px 0px 16px 0px;
+         background-color: rgba(7, 217, 87, 0.363);}
+
+.tablas table {margin: auto;}
+
+.div tablas {border-color: blueviolet;
+margin-bottom: 300px;}
+
+.tablas table {margin: auto;}
+
+.pie {background-color:rgb(36, 203, 164);
+    text-align: center;}

@@ -1,0 +1,33 @@
+/*documento.css*/  
+* { margin: 12px ; }
+
+body { font-family: "Figtree", serif; }
+
+/*Encabezados*/
+
+h1 { background-color: rgb(12, 138, 138);
+    text-align: center; }
+
+h2 { padding: 8px 8px;
+     color:  red;}
+
+.displey { color: aqua; }
+
+/*LAYOUT*/
+
+.cabecera{ padding: 16px 0px 16px 0px;
+           background-color: beige;  }
+
+.listas { margin: 16px auto;
+        padding: 16px;
+        width: 70%;
+        background-color:hotpink ; }
+        
+.contenido{ width: 70%;
+           margin: 16px auto; }
+
+.contenido p { line-height: 140px;
+             padding: 16px 0px; }
+
+.pie span{ background-color: aquamarine;
+          text-align: center; }
