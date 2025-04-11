@@ -1,0 +1,20 @@
+/*Documento css*/
+
+body{background-color: rgb(226, 229, 196);}
+
+
+
+h1,h2 { color:red;
+    font-size: 32px;
+    line-height: 140%;
+    text-decoration: underline;
+    text-align: center; }
+
+h2,h3 { color:rgb(216, 136, 7); }
+
+
+h4,h5 { color:rgb(11, 182, 195); }
+
+
+h6 { color:blueviolet; }
+
